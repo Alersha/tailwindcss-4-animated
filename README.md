@@ -1,4 +1,4 @@
-# Tailwind CSS Animated
+# Beta 4.0.0 Tailwind CSS Animated
 
 Extended animation utilities for Tailwind CSS<br>
 https://tailwindcss-animated.com
@@ -8,7 +8,7 @@ https://tailwindcss-animated.com
 Install the plugin from npm:
 
 ```sh
-npm i tailwindcss-animated
+npm i https://github.com/Alersha/tailwindcss-4-animated
 ```
 
 Then add the plugin to your tailwind.config.js file:
